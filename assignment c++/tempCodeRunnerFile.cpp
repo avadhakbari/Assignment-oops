@@ -1,0 +1,1 @@
+    //  cout<<"multi "<<cal.calculate(10.0f,20.0f);  
